@@ -1,0 +1,10 @@
+/Users/peterforrest/workspace/Csharp/InterviewQ2/bin/Debug/netcoreapp2.0/InterviewQ2.deps.json
+/Users/peterforrest/workspace/Csharp/InterviewQ2/bin/Debug/netcoreapp2.0/InterviewQ2.runtimeconfig.json
+/Users/peterforrest/workspace/Csharp/InterviewQ2/bin/Debug/netcoreapp2.0/InterviewQ2.runtimeconfig.dev.json
+/Users/peterforrest/workspace/Csharp/InterviewQ2/bin/Debug/netcoreapp2.0/InterviewQ2.dll
+/Users/peterforrest/workspace/Csharp/InterviewQ2/bin/Debug/netcoreapp2.0/InterviewQ2.pdb
+/Users/peterforrest/workspace/Csharp/InterviewQ2/obj/Debug/netcoreapp2.0/InterviewQ2.csproj.CoreCompileInputs.cache
+/Users/peterforrest/workspace/Csharp/InterviewQ2/obj/Debug/netcoreapp2.0/InterviewQ2.AssemblyInfoInputs.cache
+/Users/peterforrest/workspace/Csharp/InterviewQ2/obj/Debug/netcoreapp2.0/InterviewQ2.AssemblyInfo.cs
+/Users/peterforrest/workspace/Csharp/InterviewQ2/obj/Debug/netcoreapp2.0/InterviewQ2.dll
+/Users/peterforrest/workspace/Csharp/InterviewQ2/obj/Debug/netcoreapp2.0/InterviewQ2.pdb
