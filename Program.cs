@@ -16,7 +16,7 @@ namespace InterviewQ2
             {
                 sb.Append(Str[i]);
             }
-            Console.WriteLine(sb);
+            Console.WriteLine(sb);  
 
         }
     }
