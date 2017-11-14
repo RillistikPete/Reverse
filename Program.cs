@@ -8,13 +8,13 @@ namespace InterviewQ2
         static void Main(string[] args)
         {
             string Str = "Short string";
-            //Decided not to use .ToCharArray()
+            
             StringBuilder sb = new StringBuilder();
-            for (int i = Str.Length - 1; i >= 0; i--)
+            for (int i = (Str.Length - 1); i >= 0; i--)
             {
                 sb.Append(Str[i]);
             }
-            Console.WriteLine(sb);  
+            Console.WriteLine("{0}", sb);  
         }
     }
 }
