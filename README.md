@@ -1,3 +1,4 @@
-# C# String Reversal without using .Reverse() method.
+# C# String reversal without using .Reverse() method.
 
+11/02/2017
 
